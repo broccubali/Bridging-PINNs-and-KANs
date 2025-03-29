@@ -19,8 +19,8 @@ $$
 $$
 
 where:  
-- \( u(x,t) \) represents velocity.  
-- \( \nu \) is the diffusion coefficient.  
+- $$u(x,t)$$ represents velocity.  
+- $$\nu$$ is the diffusion coefficient.  
 
 ### 2. Heat Equation  
 Describes the diffusion of heat over time:
@@ -30,8 +30,8 @@ $$
 $$
 
 where:  
-- \( u(x,t) \) represents temperature.  
-- \( \alpha \) is the thermal diffusivity.  
+- $$u(x,t)$$ represents temperature.  
+- $$alpha$$ is the thermal diffusivity.  
 
 
 ### 3. Wave Equation  
@@ -42,8 +42,8 @@ $$
 $$
 
 where:  
-- \( u(x,t) \) represents the wave function.  
-- \( c \) is the wave speed.  
+- $$u(x,t)$$ represents the wave function.  
+- $$c$$ is the wave speed.  
 
 
 ## Implementation Details
